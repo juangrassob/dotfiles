@@ -39,4 +39,9 @@ return require('packer').startup(function(use)
   use 'nvim-tree/nvim-web-devicons'
   use 'numToStr/Comment.nvim'
   use 'nvim-tree/nvim-tree.lua'
+  -- Tmux pluggins
+  use {
+    'christoomey/vim-tmux-navigator',
+    lazy = false,
+  }
 end)
