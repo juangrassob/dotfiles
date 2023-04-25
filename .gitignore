@@ -1,5 +1,5 @@
 *
 !.gitignore
-!/nvim
-!/alacritty
-!/tmux
+!/nvim/*
+!/alacritty/*
+!/tmux/*
