@@ -99,6 +99,11 @@ _G.packer_plugins = {
     path = "/home/juan/.local/share/nvim/site/pack/packer/start/colorbuddy.nvim",
     url = "https://github.com/tjdevries/colorbuddy.nvim"
   },
+  ["eslint.nvim"] = {
+    loaded = true,
+    path = "/home/juan/.local/share/nvim/site/pack/packer/start/eslint.nvim",
+    url = "https://github.com/MunifTanjim/eslint.nvim"
+  },
   ["lspkind-nvim"] = {
     loaded = true,
     path = "/home/juan/.local/share/nvim/site/pack/packer/start/lspkind-nvim",
